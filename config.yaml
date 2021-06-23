@@ -1,0 +1,19 @@
+app:
+  version: 3
+  log_path: /Users/wuyi/codeProject/PycharmProjects/password_security_final_proj/log/logging.log
+  log_level: debug
+database:
+  cluster_port:
+    - 3301
+    - 3302
+    - 3303
+    - 3304
+  cluster_backup_port:
+    - 3321
+    - 3322
+    - 3323
+    - 3324
+  host: localhost
+  password: wuyi221013
+  schema: pass_proj
+  username: root

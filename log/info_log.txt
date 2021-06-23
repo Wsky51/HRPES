@@ -1,0 +1,2 @@
+2021-06-10 14:12:19,757 - __main__ - INFO - information
+2021-06-10 14:12:19,757 - __main__ - WARNING - warning
